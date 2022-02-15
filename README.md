@@ -2,11 +2,7 @@
 
 This project demonstrates a basic OpenZeppelin Upgradable use case.
 
-It comes with two versions of ERC20 token contract and scripts to deploy/upgrade the contract. Before start please makesure:
-  1. You have installed all dependecy listed on package json
-  2. You have created infura account and get your 
-
-Please install all the depency listed on package json and try running some of the following tasks:
+It comes with two versions of ERC20 token contract and scripts to deploy/upgrade the contract. Make sure you have your infura project ID and installed all dependency, then try running some of the following tasks:
 
 ### 1. Creating your .env
 To run the code you may need to create your own .env file on this project folder. and add these line:
